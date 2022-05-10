@@ -1,0 +1,7 @@
+d={1:['ram' , 18 , 'bsc' , 'mstcs']}
+print(d)
+d.pop(1)
+print(d)
+output:
+{1: ['ram', 18, 'bsc', 'mstcs']}
+{}
